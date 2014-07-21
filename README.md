@@ -1,7 +1,7 @@
 Auspice
 =======
 
-UMass Auspice project
+UMass Auspice project. For more info check https://gns.name/
 
 Binary releases currently available:
 - GNSForAndroid.apk: GNS configuration service for Android
